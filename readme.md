@@ -29,7 +29,7 @@ Voici quelques projets sur lesquels je travaille :
 
 * 🔹 **[Tournoi_Enoa]** — Gestionnaire de tournoi crée pour une association.
 * 🔹 **[Taskflow]** — Trello-like que j'ai fait dans le contexte d'un examen pour Titre Pro DWWM.
-* 🔹 **[Nom du projet]** — Courte description du projet
+<!-- * 🔹 **[Nom du projet]** — Courte description du projet -->
 
 👉 Retrouvez tous mes projets dans mes repositories.
 
